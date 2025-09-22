@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hola, soy Dylan Valladares
 
-<!--
-**DylanValladares/DylanValladares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas e Informática (X ciclo).  
+📊 Interesado en análisis de datos, dashboards interactivos y optimización de procesos.  
+💡 Experiencia en Power BI, Excel y soporte técnico.  
 
-Here are some ideas to get you started:
+## 🚀 Proyectos
+- Dashboard de Finanzas Personales (Excel + Power Pivot)  
+- Mapa de Gestión de Personal de Seguridad (Power BI)  
+- Dashboard de goles de Cristiano Ronaldo (Power BI)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+Power BI | Excel | SQL | Tableau | HTML | CSS  
+
+## 📫 Contacto
+[LinkedIn](https://www.linkedin.com/in/dylanvalladares18) | [Email](mailto:valladaresmotadylan@gmail.com)
