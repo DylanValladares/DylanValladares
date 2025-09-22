@@ -1,4 +1,4 @@
-# 👋 Hola, soy Dylan Valladares
+# 👋 Hola, soy Dylan 
 
 🎓 Estudiante de Ingeniería de Sistemas e Informática (X ciclo).  
 📊 Interesado en análisis de datos, dashboards interactivos y optimización de procesos.  
